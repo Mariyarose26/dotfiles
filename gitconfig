@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mariel.jesm@gmail.com
+	name = Mariya Rose
